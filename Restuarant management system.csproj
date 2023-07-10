@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03494B5F-E8FB-438F-A0B4-88FB25C24BE3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restuarant_management_system</RootNamespace>
+    <AssemblyName>Restuarant management system</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddC.Designer.cs">
+      <DependentUpon>AddC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddM.Designer.cs">
+      <DependentUpon>AddM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddN.Designer.cs">
+      <DependentUpon>AddN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddR.Designer.cs">
+      <DependentUpon>AddR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddS.Designer.cs">
+      <DependentUpon>AddS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddT.Designer.cs">
+      <DependentUpon>AddT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddW.Designer.cs">
+      <DependentUpon>AddW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cash.Designer.cs">
+      <DependentUpon>Cash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chef.Designer.cs">
+      <DependentUpon>Chef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseOrder.Designer.cs">
+      <DependentUpon>CloseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteC.Designer.cs">
+      <DependentUpon>DeleteC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteM.Designer.cs">
+      <DependentUpon>DeleteM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteN.Designer.cs">
+      <DependentUpon>DeleteN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteR.Designer.cs">
+      <DependentUpon>DeleteR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteS.Designer.cs">
+      <DependentUpon>DeleteS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteT.Designer.cs">
+      <DependentUpon>DeleteT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteW.Designer.cs">
+      <DependentUpon>DeleteW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewOrder.Designer.cs">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order.Designer.cs">
+      <DependentUpon>Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table.Designer.cs">
+      <DependentUpon>Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Waiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Waiter.Designer.cs">
+      <DependentUpon>Waiter.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddC.resx">
+      <DependentUpon>AddC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddM.resx">
+      <DependentUpon>AddM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddN.resx">
+      <DependentUpon>AddN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddR.resx">
+      <DependentUpon>AddR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddS.resx">
+      <DependentUpon>AddS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddT.resx">
+      <DependentUpon>AddT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddW.resx">
+      <DependentUpon>AddW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cash.resx">
+      <DependentUpon>Cash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chef.resx">
+      <DependentUpon>Chef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseOrder.resx">
+      <DependentUpon>CloseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteC.resx">
+      <DependentUpon>DeleteC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteM.resx">
+      <DependentUpon>DeleteM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteN.resx">
+      <DependentUpon>DeleteN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteR.resx">
+      <DependentUpon>DeleteR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteS.resx">
+      <DependentUpon>DeleteS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteT.resx">
+      <DependentUpon>DeleteT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteW.resx">
+      <DependentUpon>DeleteW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewOrder.resx">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order.resx">
+      <DependentUpon>Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table.resx">
+      <DependentUpon>Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Waiter.resx">
+      <DependentUpon>Waiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inside-Restaurant.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register-880805_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waiter-clipart-Formal-Waiter-Clipart-e1381962513384.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\665476322.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoolClips_busi1172.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-939435_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\627907926.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar.13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-939435_960_7201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\May032017114101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retail_galleryhip.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server-taking-order-600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11114438-The-bill-on-empty-plate-at-restaurant-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-939435_960_7202.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MANAGER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retail_galleryhip1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ORDER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server-taking-order-6001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BILL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6654763221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grill-Restaurant-Logo-Design-Collection2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-939435_960_7203.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-939435_960_7204.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoolClips_busi11721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ORDER1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server-taking-order-6002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6279079261.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="RestDatabase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RestDatabase_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>RestDatabase.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

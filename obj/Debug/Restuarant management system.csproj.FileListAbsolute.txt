@@ -1,0 +1,228 @@
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.Cache
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cashier.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+C:\Users\Samantha\source\repos\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase.mdf
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase_log.ldf
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojResolveAssemblyReference.cache
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.Cache
+C:\Users\sony\Desktop\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe.config
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe.config
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase.mdf
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase_log.ldf
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojResolveAssemblyReference.cache
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+C:\Users\sony\Documents\Visual Studio 2015\Projects\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.Cache
+F:\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe.config
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+F:\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase.mdf
+F:\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase_log.ldf
+F:\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+F:\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojResolveAssemblyReference.cache
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+F:\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.Cache
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase.mdf
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase_log.ldf
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe.config
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojAssemblyReference.cache
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.cache
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+C:\Users\Samantha\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe.config
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.exe
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.pdb
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase.mdf
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\RestDatabase_log.ldf
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.exe
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\bin\Debug\Restuarant management system.pdb
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csprojResolveAssemblyReference.cache
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddC.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddM.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddN.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddR.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddS.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddT.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.AddW.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Bill.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Cash.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Chef.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.CloseOrder.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Customer.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteC.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteM.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteN.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteR.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteS.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteT.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.DeleteW.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Home.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Login.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Manager.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Menu.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.NewOrder.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Order.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Properties.Resources.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Register.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Table.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant_management_system.Waiter.resources
+E:\4.2.2019 data\source\Restuarant\Restuarant management system\Restuarant management system\obj\Debug\Restuarant management system.csproj.GenerateResource.Cache
